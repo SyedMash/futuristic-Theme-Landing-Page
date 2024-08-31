@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c74fce84.css",
+    "main.js": "/static/js/main.8815a66c.js",
+    "static/js/453.b2570bb5.chunk.js": "/static/js/453.b2570bb5.chunk.js",
+    "static/media/girl3.png": "/static/media/girl3.7b54a00be1a0ecd0f348.png",
+    "static/media/Designer.png": "/static/media/Designer.536eb521266ff51304fe.png",
+    "static/media/ftgirl.png": "/static/media/ftgirl.c7be7c36e8279eec342a.png",
+    "static/media/g2.png": "/static/media/g2.ca2462443b283d6cd0f7.png",
+    "static/media/remixicon.svg?t=1718271040674": "/static/media/remixicon.f38690bdde29bddbc211.svg",
+    "static/media/Default_A_futuristic_hyperrealistic_portrait_of_a_woman_wearin_0_1ecd234e-2e78-4ee3-a4c0-a1db4c7afad2_0.png": "/static/media/Default_A_futuristic_hyperrealistic_portrait_of_a_woman_wearin_0_1ecd234e-2e78-4ee3-a4c0-a1db4c7afad2_0.483a0e707c7faa0c2e9e.png",
+    "static/media/remixicon.eot?t=1718271040674": "/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
+    "static/media/remixicon.ttf?t=1718271040674": "/static/media/remixicon.88da6179288d7835c2f0.ttf",
+    "static/media/remixicon.woff?t=1718271040674": "/static/media/remixicon.1bdc36c90398c9d667d1.woff",
+    "static/media/remixicon.woff2?t=1718271040674": "/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
+    "index.html": "/index.html",
+    "main.c74fce84.css.map": "/static/css/main.c74fce84.css.map",
+    "main.8815a66c.js.map": "/static/js/main.8815a66c.js.map",
+    "453.b2570bb5.chunk.js.map": "/static/js/453.b2570bb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c74fce84.css",
+    "static/js/main.8815a66c.js"
+  ]
+}
