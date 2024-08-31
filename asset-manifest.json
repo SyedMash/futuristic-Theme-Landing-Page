@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/futuristicTheme/static/css/main.3f2ec012.css",
+    "main.js": "/futuristicTheme/static/js/main.85d4289b.js",
+    "static/js/453.b2570bb5.chunk.js": "/futuristicTheme/static/js/453.b2570bb5.chunk.js",
+    "static/media/girl3.png": "/futuristicTheme/static/media/girl3.7b54a00be1a0ecd0f348.png",
+    "static/media/Designer.png": "/futuristicTheme/static/media/Designer.536eb521266ff51304fe.png",
+    "static/media/ftgirl.png": "/futuristicTheme/static/media/ftgirl.c7be7c36e8279eec342a.png",
+    "static/media/g2.png": "/futuristicTheme/static/media/g2.ca2462443b283d6cd0f7.png",
+    "static/media/remixicon.svg?t=1718271040674": "/futuristicTheme/static/media/remixicon.f38690bdde29bddbc211.svg",
+    "static/media/Default_A_futuristic_hyperrealistic_portrait_of_a_woman_wearin_0_1ecd234e-2e78-4ee3-a4c0-a1db4c7afad2_0.png": "/futuristicTheme/static/media/Default_A_futuristic_hyperrealistic_portrait_of_a_woman_wearin_0_1ecd234e-2e78-4ee3-a4c0-a1db4c7afad2_0.483a0e707c7faa0c2e9e.png",
+    "static/media/remixicon.eot?t=1718271040674": "/futuristicTheme/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
+    "static/media/remixicon.ttf?t=1718271040674": "/futuristicTheme/static/media/remixicon.88da6179288d7835c2f0.ttf",
+    "static/media/remixicon.woff?t=1718271040674": "/futuristicTheme/static/media/remixicon.1bdc36c90398c9d667d1.woff",
+    "static/media/remixicon.woff2?t=1718271040674": "/futuristicTheme/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
+    "index.html": "/futuristicTheme/index.html",
+    "main.3f2ec012.css.map": "/futuristicTheme/static/css/main.3f2ec012.css.map",
+    "main.85d4289b.js.map": "/futuristicTheme/static/js/main.85d4289b.js.map",
+    "453.b2570bb5.chunk.js.map": "/futuristicTheme/static/js/453.b2570bb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f2ec012.css",
+    "static/js/main.85d4289b.js"
+  ]
+}
